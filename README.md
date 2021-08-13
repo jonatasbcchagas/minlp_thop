@@ -18,5 +18,5 @@ Parameters:
 #### Example:
 
 ```console
-$ python main.py -i ../instances/eil51-thop/eil51_01_bsc_01_01.thop -o eil51_01_bsc_01_01.thop.sol -t 3600 -m 
+$ python main.py -i ../instances/eil51-thop/eil51_01_bsc_01_01.thop -s eil51_01_bsc_01_01.thop.sol -t 3600 -m 
 ```
